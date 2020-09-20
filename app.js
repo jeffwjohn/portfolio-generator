@@ -8,8 +8,8 @@ const printProfileData = profileDataArr => {
     console.log('================');
 
       profileDataArr.forEach(profileItem => console.log(profileItem));
-    });
-  };
+    };
+  
   
  
 
