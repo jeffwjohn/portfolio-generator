@@ -1,0 +1,28 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Portfolio generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "wow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffwjohn/portfolio-generator.git"
+  },
+  "keywords": [
+    "portfolio",
+    "generator",
+    "node",
+    "javascript"
+  ],
+  "author": "jeffwjohn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffwjohn/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/jeffwjohn/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
